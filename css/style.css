@@ -1,0 +1,54 @@
+html {
+   margin: 30px;
+   margin-right: 100px;
+}
+
+.Header {
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.Main {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.info {
+   
+}
+
+.pic {
+    max-width: 300px;
+    max-height: 300px;
+    transform: rotate(-90deg);
+    margin-bottom: 30px;
+}
+
+.moreStuff {
+ display: flex;
+ flex-direction: row;
+}
+
+.Me {
+    max-width: 300px;
+    max-height: 300px;
+    transform: rotate(90deg);
+}
+
+.linksAnd {
+    display: flex;
+}
+
+.boa {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.finalInfo {
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.myMedia {
+    margin-bottom: 10px;
+}
